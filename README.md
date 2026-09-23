@@ -1,4 +1,4 @@
-# Play! #
+yosi
 Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.
 
 Play! uses a built-in high-level emulation BIOS. Using an external BIOS file is not necessary or possible.
